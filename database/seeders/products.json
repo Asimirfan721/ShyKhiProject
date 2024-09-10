@@ -1,0 +1,17 @@
+
+
+
+[
+    {
+        "name": "Mouse",
+        "description": "Part of Laptop",
+        "price": 100,
+        "category_id": 1
+    },
+    {
+        "name": "Bag",
+        "description": "To carry the Luggage/Laptop",
+        "price": 150,
+        "category_id": 2
+    }
+]
