@@ -15,7 +15,7 @@
                             <button class="btn" type="submit">Subscribe</button>
                         </form>
                     </div>
-                    <!-- End Newsletter Inner -->
+                    <!--  End Newsletter Inner -->
                 </div>
             </div>
         </div>

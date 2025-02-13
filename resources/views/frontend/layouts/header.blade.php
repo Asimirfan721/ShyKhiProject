@@ -15,7 +15,7 @@
                             <li><i class="ti-email"></i> @foreach($settings as $data) {{$data->email}} @endforeach</li>
                         </ul>
                     </div>
-                    <!--/ End Top Left -->
+                    <!--/ End  Top Left -->
                 </div>
                 <div class="col-lg-6 col-md-12 col-12">
                     <!-- Top Right -->

@@ -17,7 +17,7 @@
 	<!-- End Preloader -->
 	
 	@include('frontend.layouts.notification')
-	<!-- Header -->
+	<!-- Header  -->
 	@include('frontend.layouts.header')
 	<!--/ End Header -->
 	@yield('main-content')

@@ -33,7 +33,7 @@
     </section>
 @endif
 
-<!--/ End Slider Area -->
+<!--/  End Slider Area -->
 
 <!-- Start Small Banner  -->
 <section class="small-banner section">

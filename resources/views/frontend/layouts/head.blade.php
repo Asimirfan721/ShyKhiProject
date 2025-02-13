@@ -11,7 +11,7 @@
 <link rel="manifest" href="/manifest.json">
 <!-- Bootstrap -->
 <link rel="stylesheet" href="{{asset('frontend/css/bootstrap.css')}}">
-<!-- Magnific Popup -->
+<!--  Magnific Popup -->
 <link rel="stylesheet" href="{{asset('frontend/css/magnific-popup.min.css')}}">
 <!-- Font Awesome -->
 <link rel="stylesheet" href="{{asset('frontend/css/font-awesome.css')}}">
